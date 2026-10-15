@@ -2,7 +2,7 @@
 
 SystemVerilog verification of a multicycle RISC-V CPU, completed as part of a design verification onboarding project. The project combines directed testing, constrained-random stimulus, assertion-based verification, and reference-model checking.
 
-The completed testbench achieved a **98.11% DUT overall average coverage grade** and exposed reproducible failure patterns in a provided encrypted CPU.
+The completed testbench achieved a **98.11% DUT overall average coverage grade** and exposed reproducible bugs in a provided encrypted CPU.
 
 ## Verification environment
 
