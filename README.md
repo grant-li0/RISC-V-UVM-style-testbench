@@ -119,8 +119,8 @@ See the final test plan for reproducers, expected-versus-observed behavior, and 
 ```text
 .
 ├── README.md
-├── gli412_testplan_initial.md
-├── gli412_testplan_final.md
+├── testplan_initial.md
+├── testplan_final.md
 ├── screenshots/
 ├── src/
 │   └── verilog/
