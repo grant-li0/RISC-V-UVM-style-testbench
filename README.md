@@ -145,7 +145,6 @@ Tools used:
 - SystemVerilog and SystemVerilog Assertions
 - Cadence Xcelium
 - Cadence SimVision
-- GNU Make
 - Linux
 
 From `sim/behav/`:
@@ -171,4 +170,4 @@ Execution requires the appropriate Cadence installation, licenses, and source fi
 
 ## Project scope and attribution
 
-This repository builds on an onboarding framework that supplied the component structure, reference model, helper code, and simulation infrastructure. My work focused on completing verification behavior, developing tests and constraints, adding assertions, and analyzing failures.
+This repository builds on a framework that supplied the component structure, reference model, helper code, and simulation infrastructure. My work focused on completing verification behavior, developing tests and constraints, adding assertions, and analyzing failures.
